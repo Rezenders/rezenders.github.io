@@ -1,6 +1,6 @@
 ---
 title: "Reliable AI for Marine Robotics (REMARO)"
-excerpt: "Early Stage Researcher (ESR) [#8](https://remaro.eu/index.php/positions/#position8)"
+excerpt: "Early Stage Researcher (ESR) [#8](https://remaro.eu/index.php/positions/#position8)<br><br/><img src='/files/logos/remaro_logo.png' width='200'>"
 collection: portfolio
 ---
 
@@ -14,8 +14,8 @@ The project will explore model-based systems engineering (MBSE) and knowledge re
 
 The method will be demonstrated on a real underwater robot for oceanography applications. The developed solution will enable the robot to handle both component faults and task-related contingencies, e.g. particles occluding vision or losing grip on a part being replaced, while handling the execution of a complex mission plan involving different cognitive modules, robot’s skills, and physical resources.
 
-**[REMARO page]**(https://remaro.eu/)
+[REMARO page](https://remaro.eu/)
 
 <!-- <img src='https://discourse.robmosys.eu/uploads/default/optimized/1X/363e5df18a8c1d52027ad581df9c1f66bcdaec50_2_690x266.png'> -->
 
-<img src='/files/logos/remaro_logo.png width='200'>"
+<!-- <img src='/files/logos/remaro_logo.png width='200'>" -->
