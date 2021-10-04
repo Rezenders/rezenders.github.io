@@ -9,9 +9,9 @@ main:
   - title: "Projects"
     url: /portfolio/
 
-  - title: "Teaching"
-    url: /teaching/
-    
+  # - title: "Teaching"
+  #   url: /teaching/
+
 #   - title: "Opportunities"
 #     url: /opportunities/
 
